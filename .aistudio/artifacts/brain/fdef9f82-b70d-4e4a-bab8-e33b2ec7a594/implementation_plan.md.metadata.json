@@ -1,6 +1,6 @@
 {
-  "summary":  "Implementation plan for the Interactive Differential Equations 2D and 3D Laboratory (Laboratorio Interactivo de Ecuaciones Diferenciales 2D y 3D), featuring a modular mathematical engine, step-by-step analytical derivation with MathJax/KaTeX, dual Plotly/Three.js interactive 2D and 3D parameter surfaces, and Runge-Kutta 4 numerical verification.",
-  "updatedAt":  "2026-11-08T02:29:44.058307650Z",
+  "summary":  "Rediseño integral del simulador de fermentación del yogur para Ingeniería Agroindustrial bajo una estética de laboratorio blanco clínico con acento azul único, consola dividida sobria y gráficas tipo publicación científica sin efectos decorativos, conservando las cinco vistas funcionales y el sistema de dos ecuaciones diferenciales.",
+  "updatedAt":  "2026-11-11T06:38:36.910025406Z",
   "requestFeedback":  true,
   "userFacing":  true
 }
